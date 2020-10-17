@@ -1,0 +1,6 @@
+- Name - Bhanu Teja
+- Profile Image - Bhanu.jpg
+- Academic Institution - Amrita University
+- Email - k.bhanuteja2001@gmail.com
+- Interests - Machine Learning and Data Science
+- Quote - "Self Disciplane is a must for success."
